@@ -178,5 +178,16 @@
       "https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat-GGUF/resolve/main/codeqwen-1_5-7b-chat-q8_0.gguf"
     ],
     "sha256": "aeec5c76f5d914ffc5b93cf7197b914be97c1580592a6eb368dc36c8c0c12f28"
+  },
+  {
+    "license_name": "Llama 2",
+    "license_url": "https://github.com/facebookresearch/llama/blob/main/LICENSE",
+    "prompt_template": "<PRE> {prefix} <SUF>{suffix} <MID>",
+    "name": "CodeLlama-34B",
+    "provider_url": "https://huggingface.co/codellama/CodeLlama-34b-hf",
+    "urls": [
+      "https://huggingface.co/TheBloke/CodeLlama-34B-Python-GGUF/resolve/main/codellama-34b-python.Q4_K_M.gguf"
+    ],
+    "sha256": "4b0973794389e473eee27328c5b70e568b07aed32ee05e7c775b9dc40a6f969f"
   }
 ]
